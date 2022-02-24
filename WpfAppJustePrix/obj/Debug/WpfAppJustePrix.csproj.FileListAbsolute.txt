@@ -1,0 +1,16 @@
+D:\laManu\WPF\WpfAppJustePrix\bin\Debug\WpfAppJustePrix.exe.config
+D:\laManu\WPF\WpfAppJustePrix\bin\Debug\WpfAppJustePrix.exe
+D:\laManu\WPF\WpfAppJustePrix\bin\Debug\WpfAppJustePrix.pdb
+D:\laManu\WPF\WpfAppJustePrix\obj\Debug\WpfAppJustePrix.csproj.AssemblyReference.cache
+D:\laManu\WPF\WpfAppJustePrix\obj\Debug\WpfAppJustePrix.csproj.SuggestedBindingRedirects.cache
+D:\laManu\WPF\WpfAppJustePrix\obj\Debug\MainWindow.g.cs
+D:\laManu\WPF\WpfAppJustePrix\obj\Debug\App.g.cs
+D:\laManu\WPF\WpfAppJustePrix\obj\Debug\WpfAppJustePrix_MarkupCompile.cache
+D:\laManu\WPF\WpfAppJustePrix\obj\Debug\WpfAppJustePrix_MarkupCompile.lref
+D:\laManu\WPF\WpfAppJustePrix\obj\Debug\MainWindow.baml
+D:\laManu\WPF\WpfAppJustePrix\obj\Debug\WpfAppJustePrix.g.resources
+D:\laManu\WPF\WpfAppJustePrix\obj\Debug\WpfAppJustePrix.Properties.Resources.resources
+D:\laManu\WPF\WpfAppJustePrix\obj\Debug\WpfAppJustePrix.csproj.GenerateResource.cache
+D:\laManu\WPF\WpfAppJustePrix\obj\Debug\WpfAppJustePrix.csproj.CoreCompileInputs.cache
+D:\laManu\WPF\WpfAppJustePrix\obj\Debug\WpfAppJustePrix.exe
+D:\laManu\WPF\WpfAppJustePrix\obj\Debug\WpfAppJustePrix.pdb
